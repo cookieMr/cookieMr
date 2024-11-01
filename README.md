@@ -1,6 +1,6 @@
 # Dawid Boissé
 
-I am an experienced Java Developer with 6+ years in software development. I am proficient in AWS with 2+ years in clouds, and 1 year with GCP cloud, holding 2 AWS and 1 GCP certifications. I am passionate about building efficient, scalable and secure software and optimizing cloud solutions.
+I am an experienced Java Developer with 7+ years in software development. I am proficient in AWS with 2+ years in clouds, and +1 years with GCP cloud, holding 2 AWS and 1 GCP certifications. I am passionate about building efficient, scalable and secure software and optimizing cloud solutions.
 
  * [LinkedIn](https://www.linkedin.com/in/dawid-boisse/)
 
@@ -8,8 +8,8 @@ I am an experienced Java Developer with 6+ years in software development. I am p
 
 ### [Jul '23 - * ] Senior Software Engineer @ GPC Global Technology Center Sp. z o.o.
 Design and implementation of REST microservices for payments.
- * Tools and technologies: IntelliJ, Git & GitHub, Java 17, Gradle, Jira, Spring 6 (DI, Web, Security).
- * GCP Resources used: Cloud Run, Cloud Function, Cloud SQL, Cloud Scheduler, Cloud SQL, PubSub.
+ * Tools and technologies: IntelliJ, Git & GitHub, Java 21, Gradle, Jira, Spring 6 (DI, Web, Security, JPA & Liquibase).
+ * GCP Resources used: Cloud Run, Cloud Function, Cloud SQL, Cloud Scheduler, PubSub, ApiGee.
 
 ### [Aug '22 - Jun '23] Software Engineer @ Worldremit Poland Sp. z o.o.
 Design and implementation of GraphQL Internet facing services. The team was fully distributed (Poland, United Kingdom, Republic of South Africa).
