@@ -9,7 +9,7 @@ I am an experienced Java Developer with 7+ years in software development. I am p
 ### [Jul '23 - * ] Senior Software Engineer @ GPC Global Technology Center Sp. z o.o.
 Design and implementation of REST microservices for payments.
  * Tools and technologies: IntelliJ, Git & GitHub, Java 21, Gradle, Jira, Spring 6 (DI, Web, Security, JPA & Liquibase).
- * GCP Resources used: Cloud Run, Cloud Function, Cloud SQL, Cloud Scheduler, PubSub, ApiGee.
+ * GCP Resources used: Cloud Run, Cloud Run Jobs, Cloud Function, Cloud SQL, Cloud Scheduler, PubSub, ApiGee.
 
 ### [Aug '22 - Jun '23] Software Engineer @ Worldremit Poland Sp. z o.o.
 Design and implementation of GraphQL Internet facing services. The team was fully distributed (Poland, United Kingdom, Republic of South Africa).
