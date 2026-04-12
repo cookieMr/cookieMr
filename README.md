@@ -6,7 +6,7 @@ I am an experienced Java Developer with 9+ years in software development. I am p
 
 ## Work Experiace
 
-### [Jul '23 - Mar '26 ] Senior Software Engineer @ GPC Global Technology Center Sp. z o.o.
+### [Jul '23 - Apr '26 ] Senior Software Engineer @ GPC Global Technology Center Sp. z o.o.
 Design and implementation of REST microservices for payments.
  * Tools and technologies: IntelliJ, Git & GitHub, Java 17-25, Gradle, Jira, Spring 6 (DI, Web, Security, JPA & Liquibase).
  * GCP Resources used: Cloud Run, Cloud Run Jobs, Cloud Function, Cloud SQL, Cloud Scheduler, PubSub, ApiGee.
