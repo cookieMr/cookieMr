@@ -6,6 +6,8 @@ I am an experienced Java Developer with 9+ years in software development. I am p
 
 ## Work Experiace
 
+### [May '26 - *] Senior Software Engineer @ Comerce Media Tech Sp. z o.o.
+
 ### [Jul '23 - Apr '26] Senior Software Engineer @ GPC Global Technology Center Sp. z o.o.
 Design and implementation of REST microservices for payments.
  * Tools and technologies: IntelliJ, Git & GitHub, Java 17-25, Gradle, Jira, Spring 6 (DI, Web, Security, JPA & Liquibase).
@@ -32,10 +34,11 @@ Design and implementation of GraphQL Internet facing services. The team was full
  * Development and testing of Home Location Register product while using the Agile methodology
 
 ## Certificates
- * [AWS Certified Solution Architect Associate](https://www.credly.com/badges/4a8e3b6f-a2db-4212-afca-924af257ec32/public_url) (expires on September 1st 2026)
- * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/652addb1-8680-4dff-a1d9-c0b1adeb7185/public_url) (expires on September 1st 2026)
- * [Google Cloud Platform - Cloud Digital Leader](https://www.credential.net/96725009-8dff-4624-a467-f338e596a533) (expires on June 13th 2026)
- * [GitHub Actions](https://www.credly.com/badges/2dac690c-2ac9-4ae0-beb7-c0295a0ddf8f/print) (expires on November 25th 2027)
+ * [AWS Certified Solution Architect Associate](https://www.credly.com/badges/4a8e3b6f-a2db-4212-afca-924af257ec32) (expires on September 1st 2026)
+ * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/652addb1-8680-4dff-a1d9-c0b1adeb7185) (expires on September 1st 2026)
+ * [GCP - Associate Cloud Engineer](https://www.credly.com/badges/bdb2e192-6920-4344-8feb-bace577d3460) (expires on May 29 2029)
+ * [GCP - Cloud Digital Leader](https://www.credly.com/badges/da4a9130-3b23-43ce-b4d1-3717e240eb1c) (expires on June 13th 2026)
+ * [GitHub Actions](https://www.credly.com/badges/2dac690c-2ac9-4ae0-beb7-c0295a0ddf8f) (expires on November 25th 2027)
  * [Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/bf9f9e0b-45b6-4620-9e99-6c1f2657d074/public_url)
  * Foundation Certificate in Software Testing (ISTQB)
 
